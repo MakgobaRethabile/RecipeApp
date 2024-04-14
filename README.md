@@ -8,3 +8,5 @@ Open the app and navigate to the recipe library.
 Browse through the categories or use the search function to find a specific recipe.
 Click on a recipe to view the ingredients, instructions, and user reviews.
 Save the recipe for future reference or share it with others.
+
+https://github.com/MakgobaRethabile/RecipeApp
